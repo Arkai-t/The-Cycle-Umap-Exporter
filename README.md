@@ -19,7 +19,7 @@
 1. Get the Umap file you want with [FModel](https://github.com/iAmAsval/FModel) in JSON format  
 2. Export the whole game in a folder \(Or just the model that are in the map\)  
 3. [Change the config file](config.json)  
-4. Run the script in Blender  
+4. Run the script in Blender with the [config file path in the script](Put link here)  
 5. Tada !  
   
 ---

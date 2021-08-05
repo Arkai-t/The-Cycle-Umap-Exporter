@@ -1,6 +1,6 @@
 {
-    "umapPath": "",
-    "exportedGameAssetsPath": "",
+    "umapPath": "D:/Documents/CodeFoureTout/The-Cycle-Umap-Exporter/JSON umap/Station_PlayerQuarters.json",
+    "exportedGameAssetsPath": "D:/Images/Umodel_Screenshots/Alpha/Game/",
     "deleteExistingScene": true,
     "texturingModels": true
 }
