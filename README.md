@@ -7,7 +7,8 @@
 ## What that program does and does not do ##  
 
 - :heavy_check_mark: Recreating a whole Umap from The Cycle
-- :x: Exporting models  
+- :x: Exporting models
+- :x: Exporting grounds    
 - :x: Texturing models  
 - :x: Placing Skeletal Mesh at their right place  
 - :x: __Exporting other Umap for other games than The Cycle__ 
