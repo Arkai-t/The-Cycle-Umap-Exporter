@@ -19,7 +19,7 @@
 
 1. Get the Umap file you want with [FModel](https://github.com/iAmAsval/FModel) in JSON format  
 2. Export the whole game in a folder \(Or just the model that are in the map\) with [UModel](https://www.gildor.org/en/projects/umodel)  
-3. [Change the config file](config.json)  
+3. [Change the config file](https://github.com/Arkait53/The-Cycle-Umap-Exporter/blob/main/README.md#config-file)  
 4. Run the script in Blender and don't forget to update the [config file path in the script](https://github.com/Arkait53/The-Cycle-Umap-Exporter/blob/669744d5b8ab2bf11eb52111a07c832a4a688cbb/umapBuilder.py#L17)  
 5. Tada !  
 
