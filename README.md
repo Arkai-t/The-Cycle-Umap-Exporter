@@ -2,7 +2,11 @@
   
 [License](LICENSE)
 
----   
+---    
+
+Use [this](https://github.com/Amrsatrio/BlenderUmap2), way better, and auto-export things (unlike mine)
+
+---
   
 ## What that program does and does not do ##  
 
